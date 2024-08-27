@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "recruitment portal - corporate",
+    "id": "66cc5876e187c120a99c536c",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\Razer\\Downloads\\JS MASTERY\\corporate2\\src\\components",
+    "screensPath": "c:\\Users\\Razer\\Downloads\\JS MASTERY\\corporate2\\src\\pages"
+  }
+}
